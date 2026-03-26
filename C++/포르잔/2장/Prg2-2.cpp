@@ -8,6 +8,7 @@ using namespace std;
 
 int main()
 {
+	//별기호로 정사각형 출력
 	cout << "******" << endl;
 	cout << "******" << endl;
 	cout << "******" << endl;
